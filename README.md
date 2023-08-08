@@ -1,5 +1,11 @@
 # YT-Downloader
 
+## Instalacija
+Kao što je pomenuto u **Zahvalnost** delu, ova aplikacija je zapravo GUI i da bi funkcionisala potrebna joj je aplikacija koja će zapravo vršiti komande, koje su joj zadate iz GUI aplikacije.
+Dakle, yt-dlp.exe aplikacije se nalzi u istom SFX direktorijumu kao i YT-Downloadet. 
+Pokretanjem tog direktorijuma, instaliraju se ove dve aplikacije, u istom direktoijum u C: particiji, u Program Files.
+Prilikom pokretanja, postoji mogućnost da vas iznenadi upozorenje o potencijalnom virusu, ali to možete zanemariti, jer je ova aplikacije 100% čista (to kažu svi virusi LOL).
+
 ## Pregled Aplikacije
 
 Prilikom uspešnog pokretanja, aplikacija će se otvoriti u prozoru koji izgleda ovako:
@@ -65,12 +71,23 @@ U ovom delu se nalaze 4 kontrole, koje korisnik može da menja nezavisno jednu o
 
 ![image](https://github.com/SofrA11/YT-Downloader/assets/107811123/03c95934-ed92-4100-9ff5-76ebe4031d00)
 
-Ovde se nalaze komande, dugmadi ili alatke koje korisnik može koristiti za upravljanje aplikacijom.
+Kontrolni deo se takodje sastoji od 3 kontorle.
+
+1. **Progress Bar**
+   - Sa upitnom tačnošći prikazuje kako preuzimanje napreduje.
+
+2. **Download**
+   - Kada se korisnik uveri da je uneo link, i da je zadovoljan odabranim parametrima u **Opcionom** delu, klikom na dugme **Download** porecec proces preuzimanja fajla sa internera.
+   - Pri završetku preuzimanja, pojaviće se poruka sa obaveštenjem. Ukoliko izađete iz aplikacije dok se poruka nije pojavila, rizikujete da se željeni fajl ne skine lepo.
+
+3. **Clear**
+   - Dugme koje ima funkciju da vrati sva podešavanja na defaul-ne vrednosti
+
 
 ## Pomoć
 
 Ukoliko naiđete na bilo kakve probleme ili imate pitanja, slobodno otvorite "Issue" na ovom GitHub repozitorijumu.
 
-## Licence
-
-Ova aplikacija je dostupna pod [Naziv Licence] licencom. Pogledajte `LICENCA` datoteku za više informacija.
+## Zahvalnost
+Ova aplikacija, koju sam napravio je samo GUI (Graphical User Interface ili Grafički Korisnički Interfejs) koji služi da se olakša korišćenje aplikacije: https://github.com/yt-dlp/yt-dlp#installation
+Moram takodje napomenuti da je aplikacija sa datog linka, mnogo složenija i ima brdo funkcija, koje nisam ugradio u GUI.
