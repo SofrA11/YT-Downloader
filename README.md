@@ -25,7 +25,7 @@ Aplikacija se sastoji od četiri glavna dela:
 4. **Kontrolni (Komandni) Deo**
 
 ### 1. Meni deo 
- ![image](https://github.com/SofrA11/YT-Downloader/assets/107811123/e9ce46e6-6235-4f52-90c2-948f2a579a95)
+ ![image](meni.jpg)
 
 U ovom delu se nalaze dve opcije:
 
@@ -39,13 +39,13 @@ Opcija služi da preusmeri korisnika na README, ukoliko ima nekih nedvoumica.
 
 ### 2. Obavezni Deo
 
-![image](https://github.com/SofrA11/YT-Downloader/assets/107811123/9a01c514-08cd-499b-b123-82451a66b8b2)
+![image](obavezno.jpg)
 
 Ovde se nalazi polje u koje se unosi link. Kako je cela poenta ove aplikacije, da se u nju unese link, na osnovu koga se skida sadržaj sa interneta, ne bi imalo smisla da se link ne unese i zbog toga je ovo obavezno polje.
 
 ### 3. Opcioni (Izborni) Deo
 
-![Opcioni Deo](https://github.com/SofrA11/YT-Downloader/assets/107811123/ce59e6a5-c087-4d77-bc4d-68d214f5051e)
+![Opcioni Deo](opciono.jpg)
 
 U ovom delu se nalaze 4 kontrole, koje korisnik može da menja nezavisno jednu od druge, ili da ih ostavi neizmenjene:
 
@@ -72,7 +72,7 @@ U ovom delu se nalaze 4 kontrole, koje korisnik može da menja nezavisno jednu o
 
 ### 4. Kontrolni (Komandni) Deo
 
-![image](https://github.com/SofrA11/YT-Downloader/assets/107811123/03c95934-ed92-4100-9ff5-76ebe4031d00)
+![image](Kontrole.jpg)
 
 Kontrolni deo se takodje sastoji od 3 kontorle.
 
