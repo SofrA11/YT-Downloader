@@ -51,7 +51,7 @@ U ovom delu se nalaze 4 kontrole, koje korisnik može da menja nezavisno jednu o
    - Ukoliko korisnik želi da promeni naziv fajla koji se skida, mora čekirati (označiti) opciju **Promeni**, koja se nalazi sa desne strane polja za unos.
 
 2. **Mesto čuvanja**
-   - Defaultna vrednost za mesto na kome će se preuzeti dati video je: C:\Users\Korisnik\Desktop, gde je Korisnik ime Korisnika na datom računaru.
+   - Defaultna vrednost za mesto na kome će se preuzeti dati video je: C:\Users\Korisnik\Videos, gde je Korisnik ime Korisnika na datom računaru.
    - Ukoliko korisnik želi da promeni mesto na kome će fajl koji se skida biti sačuvan, mora čekirati (označiti) opciju **Odaberi**, koja se nalazi sa desne strane dugmeta. Nakon čekiranja, klikom na dugme se bira mesto na kome će fajl biti sačuvan.
 
 3. **Format**
