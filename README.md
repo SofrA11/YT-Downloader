@@ -6,6 +6,8 @@ Dakle, yt-dlp.exe aplikacije se nalzi u istom SFX direktorijumu kao i YT-Downloa
 Pokretanjem tog direktorijuma, instaliraju se ove dve aplikacije, u istom direktoijum u C: particiji, u Program Files.
 Prilikom pokretanja, postoji mogućnost da vas iznenadi upozorenje o potencijalnom virusu, ali to možete zanemariti, jer je ova aplikacije 100% čista (to kažu svi virusi LOL).
 
+[![Install](https://img.shields.io/badge/Install-Click%20Here-blue)](https://github.com/SofrA11/YT-Downloader/raw/main/Youtube%20Downloader.exe)
+
 ## Pregled Aplikacije
 
 Prilikom uspešnog pokretanja, aplikacija će se otvoriti u prozoru koji izgleda ovako:
