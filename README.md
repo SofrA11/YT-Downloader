@@ -15,7 +15,7 @@ Aplikacija se sastoji od tri glavna dela:
 
 ### 1. Obavezni Deo
 
-Ovde se nalazi polje u koje se unosi link, koje je obavezno i bez koga aplikacija neće da radi.
+Ovde se nalazi polje u koje se unosi link. Kako je cela poenta ove aplikacije, da se u nju unese link, na osnovu koga se skida sadržaj sa interneta, ne bi imalo smisla, kada se link ne bu uneo.
 
 ### 2. Opcioni (Izborni) Deo
 
