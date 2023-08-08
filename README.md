@@ -13,7 +13,7 @@ Prilikom pokretanja, postoji mogućnost da vas iznenadi upozorenje o potencijaln
 
 Prilikom uspešnog pokretanja, aplikacija će se otvoriti u prozoru koji izgleda ovako:
 
-![Prikaz Aplikacije](Program.png)
+![Prikaz Aplikacije](Program.jpg)
 
 Aplikacija se sastoji od četiri glavna dela:
 1. **Meni Deo**
