@@ -13,7 +13,7 @@ Prilikom pokretanja, postoji mogućnost da vas iznenadi upozorenje o potencijaln
 
 Prilikom uspešnog pokretanja, aplikacija će se otvoriti u prozoru koji izgleda ovako:
 
-![Prikaz Aplikacije](https://github.com/SofrA11/YT-Downloader/assets/107811123/bc65bf42-bb4f-4007-be24-36195b561b88)
+![Prikaz Aplikacije]([https://github.com/SofrA11/YT-Downloader/assets/107811123/bc65bf42-bb4f-4007-be24-36195b561b88](https://github.com/SofrA11/YT-Downloader/blob/main/Program.jpg))
 
 Aplikacija se sastoji od četiri glavna dela:
 1. **Meni Deo**
