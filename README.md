@@ -42,7 +42,7 @@ Opcija služi da preusmeri korisnika na README, ukoliko ima nekih nedvoumica.
 
 ![image](Obavezno.jpg)
 
-Ovde se nalazi polje u koje se unosi link. Kako je cela poenta ove aplikacije, da se u nju unese link, na osnovu koga se skida sadržaj sa interneta, ne bi imalo smisla da se link ne unese i zbog toga je ovo obavezno polje.
+Ovde se nalazi polje u koje se unosi link. Kako je cela poenta ove aplikacije, da se u nju unese link, na osnovu koga se skida sadržaj sa interneta, ne bi imalo smisla da se link ne unese i zbog toga je ovo obavezno polje. Takođe, postoji opcija "playlist-a". Ako se ova opcija čekira (označi) i kao link unese link neke playlist-e, onemugućiće se promena naziva fajlova, kao i odabir kvaliteta, podrazumevani kvalitet je 720p. Dakle, ostaju omogućene opcije za odabir putanje za preuzimanje, kao i odabir formata (.mp3 ili .mp4).
 
 ### 3. Opcioni (Izborni) Deo
 
