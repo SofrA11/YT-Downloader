@@ -40,7 +40,7 @@ Opcija služi da preusmeri korisnika na README, ukoliko ima nekih nedvoumica.
 
 ### 2. Obavezni Deo
 
-![image](obavezno.jpg)
+![image](Obavezno.jpg)
 
 Ovde se nalazi polje u koje se unosi link. Kako je cela poenta ove aplikacije, da se u nju unese link, na osnovu koga se skida sadržaj sa interneta, ne bi imalo smisla da se link ne unese i zbog toga je ovo obavezno polje.
 
