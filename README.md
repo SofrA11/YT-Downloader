@@ -2,10 +2,11 @@
 
 ## Instalacija
 Kao što je pomenuto u **Zahvalnost** delu, ova aplikacija je zapravo GUI i da bi funkcionisala potrebna joj je aplikacija koja će zapravo vršiti komande, koje su joj zadate iz GUI aplikacije.
-Dakle, yt-dlp.exe aplikacije se nalzi u istom SFX direktorijumu kao i YT-Downloadet. 
-Pokretanjem tog direktorijuma, instaliraju se ove dve aplikacije, u istom direktoijum u C: particiji, u Program Files.
+Dakle, yt-dlp.exe i ffmpeg.exe aplikacije se nalze u istom SFX direktorijumu kao i YT-Downloadet. 
+Pokretanjem tog SFX-direktorijuma, ove dve izvršne datoteke se raspakuju u istom direktoijum "C:\Program Files\Youtube Downloader", kao i setup za GUI aplikaciju.
 Prilikom pokretanja, postoji mogućnost da vas iznenadi upozorenje o potencijalnom virusu, ali to možete zanemariti, jer je ova aplikacije 100% čista (to kažu svi virusi LOL).
-Nakon instalacije, možete obrisati Youtube Downloader, koji je samo privremen i služi za instaliranje potrebnih komponenti, a nakon instalacije postaje beskoristan.
+Nakon instalacije, možete obrisati YoutubeDownloader.exe, koji je samo privremen i služi za instaliranje potrebnih komponenti, a nakon instalacije postaje beskoristan.
+NAPOMENA - Prilikom otpakivanja SFX-direktorijuma, pojaviće se polje koje sadrži adresu rapakivanja, koja je po default-u "C:\Program Files", nemojte menjati ovu putanju, jer aplikacije neće funkcionisati.
 
 [![Install](https://img.shields.io/badge/Install-Click%20Here-green?style=for-the-badge&logo=github)](https://github.com/SofrA11/YT-Downloader/raw/main/YoutubeDownloader.exe)
 
