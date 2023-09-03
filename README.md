@@ -99,3 +99,5 @@ Ukoliko naiđete na bilo kakve probleme ili imate pitanja, slobodno otvorite "Is
 ## Zahvalnost
 Ova aplikacija, koju sam napravio je samo GUI (Graphical User Interface ili Grafički Korisnički Interfejs) koji služi da se olakša korišćenje aplikacije: https://github.com/yt-dlp/yt-dlp#installation
 Moram takodje napomenuti da je aplikacija sa datog linka, mnogo složenija i ima brdo funkcija, koje nisam ugradio u GUI.
+
+Druga bitna aplikacija koja se koristi "ispod haube" je  ffmpeg sa linka: https://github.com/FFmpeg/FFmpeg. Ukoliko željeni video ne postoji sa zvukom (dešava se i to), onda yt-dlp posebno preuzme zvuk, posebno video, i onda ih ffmpeg spaja (merge-uje) i na kraju se dobija video koji sadrži zvuk. Naravno, kao što je situacija sa yt-dlp, i ffmpeg ima mnogo složenije funkcije koje mogu da se koriste, ali sam ja u mojoj aplikaciji koristio samo spajanje  videa i audia.
