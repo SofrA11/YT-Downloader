@@ -108,4 +108,6 @@ Druga bitna aplikacija koja se koristi "ispod haube" je  ffmpeg sa linka: https:
     ![image](ControlPanel.jpg)
 4. U otovrenom prozoru, potražite aplikaciju "Youtube Downloader - GUI"
 5. Kliknite desni klik na tu aplikaciju i izaberite opciju "Uninstall/Change".
+6. Odite u "C:\Program Files" i obrišite folder "Youtube Downloader".
+7. Kraj.
 
